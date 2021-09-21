@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(13, 5, 119);
+}
+h1{
+    color: rgb(255, 145, 0);
+}
+input{
+    margin:30px ;
+}
+span{
+    color: rgb(182, 250, 45);
+}
+#sort{
+    display: none;
+}
+#Students_list{
+    color: rgb(255, 61, 71);
+}
